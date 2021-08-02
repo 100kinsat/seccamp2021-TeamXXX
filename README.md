@@ -32,3 +32,6 @@
 # 実験ログ
 
 ここに実験ログ（グラフなど）を記載する．
+
+<img width="531" alt="ゴールとの距離" src="https://user-images.githubusercontent.com/17925806/127866345-81bde278-a0e9-4278-9f17-2a1f20801c99.png">
+
