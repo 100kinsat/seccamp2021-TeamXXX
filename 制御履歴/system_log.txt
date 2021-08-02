@@ -1,0 +1,259 @@
+******************** start program ********************
+[State: Initialization] ... Start CanSat Program!!!
+Altitude OFFSET value: 15.60
+
+[State: Run to GOAL]
+old Lat: 31.567779
+old Lng: 130.543897
+old Distance to GOAL: 92.35
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567731
+new Lng: 130.543848
+new Distance to GOAL: 85.75
+direction_theta: 243.67
+direction_phi: 40.82
+diff_direction: 202.85
+[!] Adjust the direction of the rover [Turn RIGHT]-22 [deg]
+NO Stack diff_distance: 7.11
+old Lat: 31.567747
+old Lng: 130.543880
+old Distance to GOAL: 89.24
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567761
+new Lng: 130.543963
+new Distance to GOAL: 97.03
+direction_theta: 244.71
+direction_phi: 258.28
+diff_direction: -13.57
+[!] Adjust the direction of the rover [Turn RIGHT] -166 [deg]
+NO Stack diff_distance: 8.04
+[!] Judgment Moving away from GOAL
+old Lat: 31.567724
+old Lng: 130.543940
+old Distance to GOAL: 93.36
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567726
+new Lng: 130.543866
+new Distance to GOAL: 87.05
+direction_theta: 244.50
+direction_phi: 91.51
+diff_direction: 152.98
+[!] Adjust the direction of the rover [Turn LEFT] 27 [deg]
+NO Stack diff_distance: 7.02
+old Lat: 31.567688
+old Lng: 130.543810
+old Distance to GOAL: 80.45
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567668
+new Lng: 130.543729
+new Distance to GOAL: 72.50
+direction_theta: 244.63
+direction_phi: 74.22
+diff_direction: 170.42
+[!] Adjust the direction of the rover [Turn LEFT] 9 [deg]
+NO Stack diff_distance: 8.05
+old Lat: 31.567653
+old Lng: 130.543648
+old Distance to GOAL: 64.85
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567679
+new Lng: 130.543670
+new Distance to GOAL: 68.06
+direction_theta: 241.68
+direction_phi: 215.44
+diff_direction: 26.24
+[!] Adjust the direction of the rover [Turn LEFT] 153 [deg]
+NO Stack diff_distance: 3.60
+old Lat: 31.567593
+old Lng: 130.543619
+old Distance to GOAL: 59.59
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567531
+new Lng: 130.543658
+new Distance to GOAL: 60.93
+direction_theta: 254.93
+direction_phi: 331.35
+diff_direction: -76.42
+[!] Adjust the direction of the rover [Turn RIGHT] -103 [deg]
+NO Stack diff_distance: 7.78
+old Lat: 31.567500
+old Lng: 130.543680
+old Distance to GOAL: 62.17
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567443
+new Lng: 130.543693
+new Distance to GOAL: 62.41
+direction_theta: 264.51
+direction_phi: 349.40
+diff_direction: -84.89
+[!] Adjust the direction of the rover [Turn RIGHT] -95 [deg]
+NO Stack diff_distance: 6.53
+old Lat: 31.567401
+old Lng: 130.543672
+old Distance to GOAL: 60.12
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567257
+new Lng: 130.543792
+new Distance to GOAL: 73.05
+direction_theta: 281.63
+direction_phi: 324.54
+diff_direction: -42.90
+[!] Adjust the direction of the rover [Turn RIGHT] -137 [deg]
+NO Stack diff_distance: 19.73
+[!] Judgment Moving away from GOAL
+old Lat: 31.567302
+old Lng: 130.543759
+old Distance to GOAL: 69.04
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567305
+new Lng: 130.543741
+new Distance to GOAL: 67.30
+direction_theta: 278.02
+direction_phi: 101.07
+diff_direction: 176.95
+[!] Adjust the direction of the rover [Turn LEFT] 3 [deg]
+[!] Judgment Stack
+diff_distance: 1.74
+old Lat: 31.567267
+old Lng: 130.543759
+old Distance to GOAL: 69.70
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567258
+new Lng: 130.543730
+new Distance to GOAL: 67.21
+direction_theta: 282.56
+direction_phi: 69.08
+diff_direction: 213.48
+[!] Adjust the direction of the rover [Turn RIGHT]-33 [deg]
+[!] Judgment Stack
+diff_distance: 2.96
+old Lat: 31.567230
+old Lng: 130.543754
+old Distance to GOAL: 70.14
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567319
+new Lng: 130.543680
+new Distance to GOAL: 61.36
+direction_theta: 277.31
+direction_phi: 144.58
+diff_direction: 132.73
+[!] Adjust the direction of the rover [Turn LEFT] 47 [deg]
+NO Stack diff_distance: 12.11
+old Lat: 31.567264
+old Lng: 130.543630
+old Distance to GOAL: 57.83
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567255
+new Lng: 130.543621
+new Distance to GOAL: 57.24
+direction_theta: 285.11
+direction_phi: 42.05
+diff_direction: 243.05
+[!] Adjust the direction of the rover [Turn RIGHT]-63 [deg]
+[!] Judgment Stack
+diff_distance: 1.28
+old Lat: 31.567453
+old Lng: 130.543522
+old Distance to GOAL: 46.46
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567376
+new Lng: 130.543495
+new Distance to GOAL: 43.37
+direction_theta: 271.86
+direction_phi: 16.63
+diff_direction: 255.23
+[!] Adjust the direction of the rover [Turn RIGHT]-75 [deg]
+NO Stack diff_distance: 8.95
+old Lat: 31.567329
+old Lng: 130.543529
+old Distance to GOAL: 47.03
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567405
+new Lng: 130.543434
+new Distance to GOAL: 37.62
+direction_theta: 267.29
+direction_phi: 133.23
+diff_direction: 134.05
+[!] Adjust the direction of the rover [Turn LEFT] 45 [deg]
+NO Stack diff_distance: 12.32
+old Lat: 31.567424
+old Lng: 130.543398
+old Distance to GOAL: 34.37
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567444
+new Lng: 130.543286
+new Distance to GOAL: 24.28
+direction_theta: 255.39
+direction_phi: 101.80
+diff_direction: 153.59
+[!] Adjust the direction of the rover [Turn LEFT] 26 [deg]
+NO Stack diff_distance: 10.88
+old Lat: 31.567395
+old Lng: 130.543242
+old Distance to GOAL: 19.36
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567315
+new Lng: 130.543228
+new Distance to GOAL: 19.77
+direction_theta: 294.51
+direction_phi: 8.75
+diff_direction: 285.75
+[!] Adjust the direction of the rover [Turn RIGHT]-105 [deg]
+NO Stack diff_distance: 8.94
+old Lat: 31.567297
+old Lng: 130.543207
+old Distance to GOAL: 19.04
+Moving forward 7000 [ms]
+Motor stop
+new Lat: 31.567250
+new Lng: 130.543188
+new Distance to GOAL: 21.03
+direction_theta: 317.53
+direction_phi: 19.40
+diff_direction: 298.13
+[!] Adjust the direction of the rover [Turn RIGHT]-118 [deg]
+NO Stack diff_distance: 5.57
+old Lat: 31.567272
+old Lng: 130.543112
+old Distance to GOAL: 14.79
+Moving forward 10000 [ms]
+Motor stop
+new Lat: 31.567252
+new Lng: 130.543027
+new Distance to GOAL: 15.32
+direction_theta: 3.85
+direction_phi: 74.22
+diff_direction: -70.38
+[!] Adjust the direction of the rover [Turn RIGHT] -109 [deg]
+NO Stack diff_distance: 8.39
+old Lat: 31.567288
+old Lng: 130.543049
+old Distance to GOAL: 11.26
+Moving forward 7000 [ms]
+Motor stop
+new Lat: 31.567337
+new Lng: 130.543001
+new Distance to GOAL: 6.77
+direction_theta: 31.23
+direction_phi: 139.76
+diff_direction: -108.54
+[!] Adjust the direction of the rover [Turn RIGHT] -71 [deg]
+NO Stack diff_distance: 7.10
+
+[State: GOAL] ... All done!!!
