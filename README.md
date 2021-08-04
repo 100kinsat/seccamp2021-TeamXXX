@@ -33,5 +33,7 @@
 
 ここに実験ログ（グラフなど）を記載する．
 
+（例）[log.csv](https://github.com/100kinsat/seccamp2021-TeamXXX/blob/main/%E5%88%B6%E5%BE%A1%E5%B1%A5%E6%AD%B4/log.csv)
+
 <img width="531" alt="ゴールとの距離" src="https://user-images.githubusercontent.com/17925806/127866345-81bde278-a0e9-4278-9f17-2a1f20801c99.png">
 
